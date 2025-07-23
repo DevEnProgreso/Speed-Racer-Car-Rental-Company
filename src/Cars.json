@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Lamborghini Urus",
+    "image": "/Image/cars-slide-01.jpg",
+    "door": "4",
+    "passengers": "5",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "750"
+  },
+  {
+    "id": "2",
+    "name": "Aston Martin DBX",
+    "image": "/Image/cars-slide-02.jpg",
+    "door": "4",
+    "passengers": "5",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "500"
+  },
+  {
+    "id": "3",
+    "name": "Bugatti Mistral W16",
+    "image": "/Image/cars-slide-03.jpg",
+    "door": "2",
+    "passengers": "2",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "800"
+  },
+  {
+    "id": "4",
+    "name": "Bentley Bentayga",
+    "image": "/Image/cars-slide-04.jpg",
+    "door": "4",
+    "passengers": "5",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "600"
+  },
+  {
+    "id": "5",
+    "name": "Rolls Royce Cullinan",
+    "image": "/Image/cars-slide-05.jpg",
+    "door": "4",
+    "passengers": "5",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "900"
+  },
+  {
+    "id": "6",
+    "name": "Bentley Continental",
+    "image": "/Image/cars-slide-06.jpg",
+    "door": "4",
+    "passengers": "5",
+    "transmission": "auto",
+    "Bages": "2 Bages",
+    "price": "500"
+  }
+]
